@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.margin{
+    margin: 75% 0;
+}
+
+.parallax{
+    background: url(https://wallpapercave.com/wp/KVbwHTI.jpg)
+    repeat fixed 100%;
+}
+
+.parallax-inner{
+    padding-top: 30%;
+    padding-bottom: 30%;
+}
+
+h1{
+    text-align: center;
+    font-size: 500%;
+    color: white;
+    letter-spacing: 3px;
+}
